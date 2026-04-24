@@ -6,39 +6,56 @@
 
 ##
 
-<div align="center">
-<h3> My Skills</h3>
+<h3 align="center">My Skills</h3>
 
-<div align="center">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <a href="https://nestjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" height="40" width="52" alt="nestJS logo"  />
-   <a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  <a href="https://angular.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="40" width="52" alt="angular logo"  />
-  <a href="https://swagger.io/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/swagger.svg" height="40" width="52" alt="swagger logo"  />
-</div>
-
-##
-
-<div align="center">
-<h3> My Contacts </h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/cleiton-pereira-249044240/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
   </a>
-   <a href="https://main--cleiton-bp.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  <a href="https://nestjs.com/">
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" height="40"/>
   </a>
-   <a href="https://main--cleiton-bp.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=portfolio&logo=telegram&label=&color=006666&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portifolio logo"  />
+  <a href="https://nodejs.org/en/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   </a>
-</div>
+  <a href="https://www.docker.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  </a>
+  <a href="https://www.npmjs.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
+  </a>
+  <a href="https://angular.dev/">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="40"/>
+  </a>
+  <a href="https://swagger.io/">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/swagger.svg" height="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">My Contacts</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cleiton-pereira-249044240/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://main--cleiton-bp.netlify.app/">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://main--cleiton-bp.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-006666?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ##
 
