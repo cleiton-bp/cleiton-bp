@@ -1,8 +1,4 @@
 <p align="center">
-  <ins><b>English</b></ins> &nbsp;·&nbsp; <a href="./README.pt.md">Português</a> &nbsp;·&nbsp; <a href="./README.es.md">Español</a> &nbsp;·&nbsp; <a href="./README.fr.md">Français</a> &nbsp;·&nbsp; <a href="./README.de.md">Deutsch</a> &nbsp;·&nbsp; <a href="./README.it.md">Italiano</a> &nbsp;·&nbsp; <a href="./README.zh.md">中文</a> &nbsp;·&nbsp; <a href="./README.ja.md">日本語</a>
-</p>
-
-<p align="center">
   <a href="https://github.com/cleiton-bp">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=6000&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&height=50&lines=Full%20Stack%20Developer;Turning%20coffee%20into%20code" alt="Full Stack Developer" />
   </a>
