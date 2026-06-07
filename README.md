@@ -7,8 +7,7 @@
 <h3 align="center">My GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleiton-bp&locale=en&hide_border=true&background=00000000&theme=tokyonight&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7#gh-dark-mode-only" alt="GitHub streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleiton-bp&locale=en&hide_border=true&background=00000000&theme=default&ring=0969da&fire=0969da&currStreakLabel=0969da#gh-light-mode-only" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleiton-bp&locale=en&hide_border=true&background=00000000&theme=tokyonight&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub streak" />
 </p>
 
 ---
