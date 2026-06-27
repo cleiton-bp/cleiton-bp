@@ -7,7 +7,13 @@
 <h3 align="center">My GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cleiton-bp&theme=github-compact&hide_border=true&bg_color=0d1117&color=2e9ef7&line=2e9ef7&point=ffffff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=cleiton-bp&theme=github-compact&hide_border=true&bg_color=0d1117&color=2e9ef7&line=2e9ef7&point=ffffff" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=cleiton-bp&theme=github-compact&hide_border=true&bg_color=ffffff&color=1f6feb&line=2e9ef7&point=1f2328" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cleiton-bp&theme=github-compact&hide_border=true&bg_color=0d1117&color=2e9ef7&line=2e9ef7&point=ffffff" />
+  </picture>
 </p>
 
 ---
